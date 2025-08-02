@@ -1,75 +1,106 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- Quote Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&color=58A6FF&lines=Code.+Deploy.+Scale.+Repeat.">
+</p>     
 
-###
+<h2 align="center">Hi there! 👋 I'm Aniket</h2>
+<p align="center"><strong>Cloud Enthusiast • Java Developer • Lifelong Learner</strong></p>
 
-<div align="center">
-  <a href="www.linkedin.com/in/aniket-mishra-356b99370" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+---
+
+## 📍 <strong>About Me</strong>
+
+☁️ Passionate about Cloud Computing and DevOps  
+☕ Strong command over Java and backend technologies  
+🎓 Lifelong learner exploring the world of distributed systems & automation
+
+---
+
+## 🚀 <strong>What I’m Working On</strong>
+
+- Learning advanced Java and system design  
+- Exploring AWS / Azure / GCP services  
+- Automating infrastructure using Terraform and CI/CD  
+- Solving problems on LeetCode and CodeChef
+
+---
+
+## 🧠 <strong>Tech Stack</strong>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,aws,docker,kubernetes,linux,git,maven,gradle,github,vscode" />
+</p>
+
+---
+
+## 📊 <strong>GitHub Insights</strong>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketm0317&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketm0317&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📌 <strong>Featured Projects</strong>
+
+<p align="center">
+  <a href="https://github.com/aniketm0317/java-cloud-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketm0317&repo=java-cloud-app&theme=github_dark" />
   </a>
-</div>
 
-###
+  <a href="https://github.com/aniketm0317/devops-deploy" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketm0317&repo=devops-deploy&theme=github_dark" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketm0317.aniketm0317&"  />
-</div>
+---
 
-###
+## 💡 <strong>Dev Quotes</strong>
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🧾 <strong>GitHub Summary</strong>
 
-###
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketm0317&theme=github_dark" />
+</p>
 
-<h3 align="left">I'm  from Kanpur<br><br>- 🔭 I’m  a  student<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I solve DSA</h3>
+---
 
-###
+## 🔥 <strong>Contribution Graph</strong>
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketm0317&theme=github-compact&hide_border=true" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+## 😂 <strong>Dev Joke</strong>
 
-###
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 🌐 <strong>Connect With Me</strong>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketm0317&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketm0317&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aniketm0317&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <a href="www.linkedin.com/in/aniket-mishra-356b99370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aniketm0317@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketm0317.aniketm0317" alt="Visitor Count" />
+</p>
