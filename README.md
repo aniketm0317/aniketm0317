@@ -19,17 +19,19 @@
 ## 🚀 <strong>What I’m Working On</strong>
 
 - Learning advanced Java and system design  
-- Exploring AWS / Azure / GCP services  
-- Automating infrastructure using Terraform and CI/CD  
-- Solving problems on LeetCode and CodeChef
+- Exploring AWS / IBM Cloud services  
+- Automating infrastructure using tools like Grafana and Putty  
+- Solving problems using C, Python, and Java
 
 ---
 
 ## 🧠 <strong>Tech Stack</strong>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,aws,docker,kubernetes,linux,git,maven,gradle,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,python,c,aws,github,vscode,linux" />
 </p>
+
+<p align="center"><strong>Also familiar with:</strong> IBM Cloud • Grafana • Putty • Ubuntu</p>
 
 ---
 
@@ -91,7 +93,7 @@
 ## 🌐 <strong>Connect With Me</strong>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aniket-mishra-356b99370" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-mishra-356b99370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aniketm0317@gmail.com">
